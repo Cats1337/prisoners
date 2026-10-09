@@ -201,7 +201,15 @@ function clearOverridesCoveredBySteam() {
 /* Sidebar */
 
 function createNavButton(category) {
-    const baseHead = category.baseHead === "CatsRandom" ? HEADS[Math.floor(Math.random() * HEADS.length)] : HEADS.find((head) => normalize(head.name) === normalize(category.baseHead));
+    let baseHead = category.baseHead === "CatsRandom"
+        ? HEADS[Math.floor(Math.random() * HEADS.length)]
+        : HEADS.find((head) => normalize(head.name) === normalize(category.baseHead));
+
+    // If it's missing or uses EMPTY_PATH, choose a random valid head
+    if (!baseHead || baseHead.icon_url === EMPTY_PATH) {
+        const validHeads = HEADS.filter((head) => head.icon_url !== EMPTY_PATH);
+        baseHead = validHeads[Math.floor(Math.random() * validHeads.length)];
+    }
 
     const iconUrl = baseHead?.icon_url ? getSteamIconUrl(baseHead.icon_url) : "";
 
