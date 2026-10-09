@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#15140e">
+    <title>Prisoner Registry | BattleBlock Theater</title>
+    <!-- icon -->
+    <link rel="icon" type="image/gif" href="/portfolio/assets/cattap-C9mEMFQj.gif" />
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LP3HSSWMDK"></script>
+    <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag("js", new Date()); gtag("config", "G-LP3HSSWMDK"); </script>
+</head>
+
+<body>
+    <div class="app">
+        <aside class="sidebar">
+            <a class="brand" href="https://cats1337.github.io/" target="_blank" rel="noopener noreferrer">
+                <img class="brand-icon" src="/portfolio/assets/cattap-C9mEMFQj.gif" alt="Cats">
+                <span>
+                    <strong>PRISONER</strong>
+                    <small>REGISTRY</small>
+                </span>
+            </a>
+
+            <p class="sidebar-label">COLLECTION</p>
+
+            <nav id="category-nav" aria-label="Categories"></nav>
+
+        </aside>
+
+        <main class="main">
+            <section class="hero">
+                <div class="hero-copy">
+                    <h1>
+                        BattleBlock Theater<br>
+                        <span>Prisoner Registry</span>
+                    </h1>
+
+                    <p>
+                        Input your Steam profile URL or SteamID to see which
+                        prisoners you've freed.
+                    </p>
+
+                    <form id="steam-form" class="steam-form" onsubmit="event.preventDefault()" novalidate>
+                        <label for="steam-id" class="visually-hidden">
+                            Your Steam profile URL or SteamID
+                        </label>
+
+                        <input id="steam-id" class="steam-input" type="text" placeholder="Your profile URL or SteamID"
+                            autocomplete="off" autocapitalize="off" spellcheck="false"
+                            aria-describedby="steam-error steam-hint">
+
+                        <button id="steam-sync" class="button button-hero" type="submit">
+                            Check inventory
+                        </button>
+                    </form>
+
+                    <div id="steam-error" class="error-message" role="status"></div>
+                </div>
+
+                <div class="steam-footer">
+                    <p id="steam-hint" class="steam-hint">
+                        Enter your Steam profile URL or 17-digit SteamID64 to check your
+                        prisoner collection.
+                    </p>
+                    <p class="steam-hint-note">
+                        Your profile and inventory must be <strong>Public</strong>.
+                    </p>
+                </div>
+
+                <div class="hero-art" aria-hidden="true">
+                    <div class="prisoner-head"></div>
+                </div>
+            </section>
+
+            <section class="stats">
+                <article class="stat-card stat-primary">
+                    <div class="stat-label">COLLECTION COMPLETE</div>
+
+                    <div class="stat-number">
+                        <span id="percent">0</span><small>%</small>
+                    </div>
+
+                    <div class="progress-track">
+                        <div id="overall-bar" class="progress-fill"></div>
+                    </div>
+
+                    <div class="stat-foot">
+                        <span id="owned-count">0</span> owned
+                        <span class="muted">
+                            / <span id="total-count">0</span> listed
+                        </span>
+                    </div>
+                </article>
+
+                <article class="stat-card">
+                    <div class="stat-label">STAR COMPLETION</div>
+
+                    <div class="stat-number">
+                        <span id="star-percent">0</span><small>%</small>
+                    </div>
+
+                    <div class="progress-track">
+                        <div id="star-bar" class="progress-fill"></div>
+                    </div>
+
+                    <div class="stat-foot">
+                        <span id="star-count">0</span> owned
+                        <span class="muted">
+                            / <span id="star-total">0</span> listed
+                        </span>
+                    </div>
+                </article>
+
+                <article class="stat-card">
+                    <div class="stat-label">STEAM MATCHES</div>
+
+                    <div class="stat-number">
+                        <span id="steam-count">0</span>
+                    </div>
+
+                    <div id="steam-note" class="stat-note">
+                        Inventory not connected
+                    </div>
+
+                    <div class="stat-subsection">
+                        <div class="stat-subsection-info">
+                            <div class="stat-subsection-label">MANUAL OVERRIDES</div>
+                            <div class="stat-subsection-count">
+                                <span id="manual-count">0</span>
+                            </div>
+                        </div>
+
+                        <button id="reset-btn" class="text-button" title="Reset manual overrides">
+                            Reset
+                        </button>
+                    </div>
+                </article>
+            </section>
+
+            <section class="collection">
+                <div class="section-heading">
+                    <div>
+                        <h2>
+                            <span id="section-title">All Prisoners</span>
+                            <span id="section-count" class="count-badge">0</span>
+                        </h2>
+                    </div>
+
+                    <div class="view-tools">
+                        <label class="searchbox">
+                            <span aria-hidden="true">⌕</span>
+                            <input type="search" id="search" placeholder="Search prisoners..." autocomplete="off">
+                        </label>
+
+                        <select id="status-filter" aria-label="Filter status">
+                            <option value="all">All Status</option>
+                            <option value="owned">Owned</option>
+                            <option value="missing">Missing</option>
+                            <option value="steam">Steam Detected</option>
+                            <option value="manual">Manual Override</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="collection-toolbar">
+                    <span id="result-label">SHOWING 0 ENTRIES</span>
+
+                    <div class="toolbar-right">
+                        <div class="legend-group" aria-label="Filter by ownership">
+                            <button class="legend" type="button" data-filter="owned" aria-pressed="false">
+                                <i class="legend-dot owned-dot"></i>
+                                Owned
+                            </button>
+
+                            <button class="legend" type="button" data-filter="missing" aria-pressed="false">
+                                <i class="legend-dot missing-dot"></i>
+                                Missing
+                            </button>
+                        </div>
+
+                        <button id="clear-filters" class="text-button">
+                            <span aria-hidden="true">✕</span> Clear filters
+                        </button>
+                    </div>
+                </div>
+
+                <div id="head-grid" class="head-grid"></div>
+
+                <div id="empty-state" class="empty-state" hidden>
+                    <div class="empty-icon">⌕</div>
+                    <strong>No prisoners found</strong>
+                    <span>Try another search or category.</span>
+                </div>
+
+                <div class="load-more-row">
+                    <span id="visible-count">0 entries</span>
+                    <button id="show-more" class="button button-secondary">
+                        Show More
+                    </button>
+                </div>
+            </section>
+
+            <footer>
+                <span>PRISONER REGISTRY · UNOFFICIAL FAN PROJECT</span>
+                <span>Progress stays in your browser.</span>
+            </footer>
+        </main>
+    </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+
+</html>

@@ -1,0 +1,2895 @@
+{
+  "items": [
+    {
+      "name": "Exploding Disc",
+      "market_hash_name": "Exploding Disc",
+      "classid": "207637046",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGPOBlQQw2In17pTU8jz0Vq",
+      "descriptions": [
+        "Your first weapon! The Disc can be used to stun opponents when thrown. When landing, it will then explode after a short period."
+      ]
+    },
+    {
+      "name": "Cousin Zack",
+      "market_hash_name": "Cousin Zack",
+      "classid": "208076915",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkfPC2AtcWqB4Y",
+      "descriptions": [
+        "This is Zack."
+      ]
+    },
+    {
+      "name": "Mom",
+      "market_hash_name": "Mom",
+      "classid": "207637057",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG35lPOeiOVebrQ",
+      "descriptions": [
+        "Mother of Children. Motherlike figure. Mom."
+      ]
+    },
+    {
+      "name": "George",
+      "market_hash_name": "George",
+      "classid": "207637071",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG35lPOfNNQLeSA",
+      "descriptions": [
+        "This is George."
+      ]
+    },
+    {
+      "name": "Cousin Wesley",
+      "market_hash_name": "Cousin Wesley",
+      "classid": "207637090",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkfPC2AuiNI8QH",
+      "descriptions": [
+        "This is Wesley"
+      ]
+    },
+    {
+      "name": "Pluto",
+      "market_hash_name": "Pluto",
+      "classid": "206703667",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2E7Iu6_WrymXH0",
+      "descriptions": [
+        "I'm not a planet.  I'm a prisoner!"
+      ]
+    },
+    {
+      "name": "Forceball",
+      "market_hash_name": "Forceball",
+      "classid": "208647478",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGPJQJARAqM3UKpWj5ypH_kJgA",
+      "descriptions": [
+        "The Forceball is a timed weapon that fires away and upward. At the end of its timer, it explodes, sending off a circular wave of force."
+      ]
+    },
+    {
+      "name": "Fireball",
+      "market_hash_name": "Fireball",
+      "classid": "207637048",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGPIwJGQwmB3QD3RDdBc9-WEQ",
+      "descriptions": [
+        "Fireballs ignite opponents upon contact. While ablaze, players can touch other players (Friends and Foes) to set them on fire as well."
+      ]
+    },
+    {
+      "name": "Dart Gun",
+      "market_hash_name": "Dart Gun",
+      "classid": "207637050",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGNKwJXDxiD1u54svY_",
+      "descriptions": [
+        "The Dart Gun fires a dart that will stick to most surfaces and knock down characters it hits. Darts that are stuck to a wall can be used as platforms and will un-stick after a short time."
+      ]
+    },
+    {
+      "name": "Fat Kid",
+      "market_hash_name": "Fat Kid",
+      "classid": "208076914",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2M7Iu6_ynLXP0k",
+      "descriptions": [
+        "Fat Kid spent many-a-day running around with Alien, and just look at him now!"
+      ]
+    },
+    {
+      "name": "Aquarius",
+      "market_hash_name": "Aquarius",
+      "classid": "208076961",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhaq6oC9hJawEw3g",
+      "descriptions": [
+        "If you've ever wanted to live on the edge, try snorkeling. 2 inches up and you're breathing, 2 inches down and you're drowning."
+      ]
+    },
+    {
+      "name": "drizzle",
+      "market_hash_name": "drizzle",
+      "classid": "208122122",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjY66oC9hR3w5VQQ",
+      "descriptions": [
+        "Was attending a slumber party with his friend, Grizzle, and woke up in jail?"
+      ]
+    },
+    {
+      "name": "Biggs Hoson",
+      "market_hash_name": "Biggs Hoson",
+      "classid": "207637044",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUifPC2AjUlP_lF",
+      "descriptions": [
+        "You can't stare into the building blocks of life itself without consequence."
+      ]
+    },
+    {
+      "name": "Hibiscus",
+      "market_hash_name": "Hibiscus",
+      "classid": "213635665",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmY66oC9iN7y27Pg",
+      "descriptions": [
+        "This is what happens when you drink seawater daily."
+      ]
+    },
+    {
+      "name": "Matthew",
+      "market_hash_name": "Matthew",
+      "classid": "213635673",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmZK6oC9hhfInUmA",
+      "descriptions": [
+        "Player of games. Trusted confidante."
+      ]
+    },
+    {
+      "name": "Arrrrrrrrrrrrrrnold",
+      "market_hash_name": "Arrrrrrrrrrrrrrnold",
+      "classid": "213635672",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkZ66oC9gCGK5CjA",
+      "descriptions": [
+        "Arnold has adapted to life aboard the SS Friendship, and looks forward to starting his own line of sea salts."
+      ]
+    },
+    {
+      "name": "Trevor Papermill",
+      "market_hash_name": "Trevor Papermill",
+      "classid": "213635669",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnZ66oC9i6YdifxQ",
+      "descriptions": [
+        "Hairstyles come and go, but beards are for Trevor. Errrrr."
+      ]
+    },
+    {
+      "name": "Hark",
+      "market_hash_name": "Hark",
+      "classid": "208647498",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2c7Iu6_xx-fE0E",
+      "descriptions": [
+        "Hypoallergenic being of love and domestication."
+      ]
+    },
+    {
+      "name": "Angry Faic",
+      "market_hash_name": "Angry Faic",
+      "classid": "208647501",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2Q7Iu6_Uw-Ccf0",
+      "descriptions": [
+        "When mere words are not enough."
+      ]
+    },
+    {
+      "name": "Butterfly McKenzie",
+      "market_hash_name": "Butterfly McKenzie",
+      "classid": "207637104",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2c7Iu6_ojbKk2o",
+      "descriptions": [
+        "Boxing may have left him with twisty-ears and a toothless smile, but just look how happy he is!"
+      ]
+    },
+    {
+      "name": "Herbert",
+      "market_hash_name": "Herbert",
+      "classid": "207637095",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHGA7Iu6_qNlJTns",
+      "descriptions": [
+        "A young runaway found himself in a neighboring gasket manufacturing plant.  There he accidently boarded a shipping container and was whisked away to the unknown."
+      ]
+    },
+    {
+      "name": "HampsterSword",
+      "market_hash_name": "HampsterSword",
+      "classid": "207637063",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGA7Iu6_mg22c9Q",
+      "descriptions": [
+        "It wasn't until the moment the prison door closed when he learned the true meaning of solitude... only to realize he had been alone his entire life."
+      ]
+    },
+    {
+      "name": "Hanx",
+      "market_hash_name": "Hanx",
+      "classid": "213635847",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHH5lPOd74FSUNA",
+      "descriptions": [
+        "I had this beard wayyyyyy before it was cool. I also had a palatial estate, but it was not as cool."
+      ]
+    },
+    {
+      "name": "Secret Mission Guy 1",
+      "market_hash_name": "Secret Mission Guy 1",
+      "classid": "207637096",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2g7Iu6_yejsfEU",
+      "descriptions": [
+        "Former MI5 agent reported missing in action, but since resurfaced in a remote island prison..."
+      ]
+    },
+    {
+      "name": "Paper Airplane",
+      "market_hash_name": "Paper Airplane",
+      "classid": "207637114",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGZKwBGUymEw17rSz5wfPC2Aljhmo3Q",
+      "descriptions": [
+        "This remarkable piece of engineering generally flies in a straight line until it hits something. Pressing the weapon button again while in flight or while it is crumpled will cause it to explode."
+      ]
+    },
+    {
+      "name": "Boomerang",
+      "market_hash_name": "Boomerang",
+      "classid": "207637047",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGLJR9ORBqM30mpWj5yDEBjp9I",
+      "descriptions": [
+        "The boomerang flies out and back to its thrower. If a prisoner or cat is hit, it will be stunned for a short time. The boomerang can also be used to grab gems and yarn from afar."
+      ]
+    },
+    {
+      "name": "Acid Bubble",
+      "market_hash_name": "Acid Bubble",
+      "classid": "208647473",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGIKRlHYx2P00LiBCB7NXWkTeDW",
+      "descriptions": [
+        "The Acid Bubble will dissolve opponents when coming into contact with its sides or bottom. It is also a utility weapon in that you can jump off the top of it."
+      ]
+    },
+    {
+      "name": "Barnaby",
+      "market_hash_name": "Barnaby",
+      "classid": "210585861",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUga66oC9hTD-U5rQ",
+      "descriptions": [
+        "Did you know his bite is somewhere around 1800 pounds per square inch? Someone should of told him that when he was behind bars."
+      ]
+    },
+    {
+      "name": "Billy",
+      "market_hash_name": "Billy",
+      "classid": "213635641",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGY7Iu6_yQrVKo8",
+      "descriptions": [
+        "Pretty sure this isn't his real name, but we all call him this in the slammer."
+      ]
+    },
+    {
+      "name": "Henrietta",
+      "market_hash_name": "Henrietta",
+      "classid": "208510633",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2U7Iu6_1c1-Ck4",
+      "descriptions": [
+        "Henrietta went on a voyage once.  A voyage that lasted 19 years.  Landed her in the paper and everything.  She was going somewhere.  Then the cats came."
+      ]
+    },
+    {
+      "name": "Roboturd",
+      "market_hash_name": "Roboturd",
+      "classid": "207637094",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGH5lPOd5RPpfqw",
+      "descriptions": [
+        "How does the saying go? Every creature on the planet poops alone?"
+      ]
+    },
+    {
+      "name": "RazzleDazzle",
+      "market_hash_name": "RazzleDazzle",
+      "classid": "213635782",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHGI7Iu6_eLvz-PM",
+      "descriptions": [
+        "More glitz, more gravy."
+      ]
+    },
+    {
+      "name": "Depth Perception",
+      "market_hash_name": "Depth Perception",
+      "classid": "213635642",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iE35lPOe8noALqg",
+      "descriptions": [
+        "Thank goodness the world is only 2 dimensional."
+      ]
+    },
+    {
+      "name": "Frog Bomb",
+      "market_hash_name": "Frog Bomb",
+      "classid": "207637051",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGPOB9EYweA0wD3RDdRVX1r_A",
+      "descriptions": [
+        "The FrogBomb is moving proximity bomb. It will traverse all types of terrain and will explode upon contact with an opponent."
+      ]
+    },
+    {
+      "name": "Imposter",
+      "market_hash_name": "Imposter",
+      "classid": "208647502",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHGQ7Iu6_D-SWXiE",
+      "descriptions": [
+        "If all the ducks are sharks, then who are the ducks?"
+      ]
+    },
+    {
+      "name": "Grenade",
+      "market_hash_name": "Grenade",
+      "classid": "207637118",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGOOBVNQAyIn17pTZwV60Uv",
+      "descriptions": [
+        "Tried and true. Throw it and it explodes on impact or on a timer."
+      ]
+    },
+    {
+      "name": "Ice Cannon",
+      "market_hash_name": "Ice Cannon",
+      "classid": "207637116",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGAKRVBQASBn17pTWm9iRzD",
+      "descriptions": [
+        "Fires two rounds (ice blocks) at a time and at varying trajectories. Ice blocks will freeze opponents on impact."
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "market_hash_name": "Customer Service",
+      "classid": "213635781",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGU7Iu6_Y-Mgmy0",
+      "descriptions": [
+        "Generally irritated, but he'll get you what you need."
+      ]
+    },
+    {
+      "name": "Clock Cat",
+      "market_hash_name": "Clock Cat",
+      "classid": "213635696",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWA7Iu6_Pgka7bc",
+      "descriptions": [
+        "Clock Cat knows the exact time of your death, but all he does is make that face..."
+      ]
+    },
+    {
+      "name": "Captain Chrysanthimum",
+      "market_hash_name": "Captain Chrysanthimum",
+      "classid": "208647490",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2M7Iu6_PkjjxnM",
+      "descriptions": [
+        "&amp;quot;That's the last turd out of you, Captain Chrysanthimum!!&amp;quot; said the evil villain."
+      ]
+    },
+    {
+      "name": "Gruyere",
+      "market_hash_name": "Gruyere",
+      "classid": "207637075",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmc7Iu6_trshB5I",
+      "descriptions": [
+        "The buggy bumpers are comin' OFF!"
+      ]
+    },
+    {
+      "name": "Beezle Bug",
+      "market_hash_name": "Beezle Bug",
+      "classid": "213635776",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWg7Iu6_w3jL0KY",
+      "descriptions": [
+        "No description needed. Shhhhhhhh."
+      ]
+    },
+    {
+      "name": "Octopeyes",
+      "market_hash_name": "Octopeyes",
+      "classid": "213635775",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmE7Iu6_4mHPpGM",
+      "descriptions": [
+        "Symbiosis presents itself in many forms.  This is not one."
+      ]
+    },
+    {
+      "name": "Vomitous Tots",
+      "market_hash_name": "Vomitous Tots",
+      "classid": "207637091",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmY7Iu6_MPyiXCI",
+      "descriptions": [
+        "Vomitous Tots only writes about himself in the third person, see?  This way you don't know if someone else wrote it or Vomitous Tots wrote it, see?  Keeps things a little hazy, see?"
+      ]
+    },
+    {
+      "name": "Brutus",
+      "market_hash_name": "Brutus",
+      "classid": "213635693",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2k7Iu6_ozpa4Rw",
+      "descriptions": [
+        "The cats took over just moments before the great ape rebellion. Years of planning, wasted."
+      ]
+    },
+    {
+      "name": "Reverse Toast Guy",
+      "market_hash_name": "Reverse Toast Guy",
+      "classid": "213635834",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWE7Iu6_2GfvONA",
+      "descriptions": [
+        "It didn't catch on. Its just not toast without that little butt shape on one end."
+      ]
+    },
+    {
+      "name": "Turkey",
+      "market_hash_name": "Turkey",
+      "classid": "213635763",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2EifPC2AuVkre4a",
+      "descriptions": [
+        "Turkeys have adapted to their gluttonous environment by always presenting a moving target, and in Turkey prisoner's case, also by growing thumbs. Seriously, would you eat something with thumbs? Yech."
+      ]
+    },
+    {
+      "name": "Pleasant Peasant",
+      "market_hash_name": "Pleasant Peasant",
+      "classid": "213635636",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWQ7Iu6_8gSb0V4",
+      "descriptions": [
+        "Customer service skills are really important when you're dealing in fine muds and novelty muck."
+      ]
+    },
+    {
+      "name": "EyeLids McBirthWater",
+      "market_hash_name": "EyeLids McBirthWater",
+      "classid": "213635839",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWU7Iu6_R1mjC94",
+      "descriptions": [
+        "You may never be as cute as a panda, but then, you never had to be a naked worm crawling around on your mother's fur. Seriously, have you seen what they look like as newborns? Yuck."
+      ]
+    },
+    {
+      "name": "Commander & Me",
+      "market_hash_name": "Commander & Me",
+      "classid": "213635705",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmQ7Iu6_Xxw3x8I",
+      "descriptions": [
+        "Commander is pointing right at a super secret escape hatch. Too bad Me can't see which way that is."
+      ]
+    },
+    {
+      "name": "The Pharaoh",
+      "market_hash_name": "The Pharaoh",
+      "classid": "213635629",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWI7Iu6_oSeqRKM",
+      "descriptions": [
+        "If pharoahs are good at anything, it's making death look CLASSY. Which, you have to admit, is an important skill for any BattleBlock Theater performer."
+      ]
+    },
+    {
+      "name": "Seeds",
+      "market_hash_name": "Seeds",
+      "classid": "208122579",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2I7Iu6_W1WJwc0",
+      "descriptions": [
+        "They say that it's what's on the inside that counts. Nobody has ever said that about Seeds, mostly because his insides are gross."
+      ]
+    },
+    {
+      "name": "Time and not space",
+      "market_hash_name": "Time and not space",
+      "classid": "213635630",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGQ7Iu6_oK6FChQ",
+      "descriptions": [
+        "Ethereal.  Slightly upset.  Very consistent."
+      ]
+    },
+    {
+      "name": "Greasegiver Hobblewiggins",
+      "market_hash_name": "Greasegiver Hobblewiggins",
+      "classid": "213635849",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHGE7Iu6_hdq44C4",
+      "descriptions": [
+        "Stereophonic aural happiness ensues when least expected. Too bad the CD skips everytime he double-jumps. Wait, you guys do remember CD's, right?"
+      ]
+    },
+    {
+      "name": "Cleo",
+      "market_hash_name": "Cleo",
+      "classid": "213635637",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWY7Iu6_jnEVQs4",
+      "descriptions": [
+        "No. It's just a coincidence she's named that. I mean when she was a baby she didn't have that hair or anything. So it's not like anyone saw it coming and named her that on purpose."
+      ]
+    },
+    {
+      "name": "Dodgeball",
+      "market_hash_name": "Dodgeball",
+      "classid": "207637117",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGNJRRERAqM3UKpWj5ynnAN2VI",
+      "descriptions": [
+        "This is primarily a stun weapon that will bounce around after its initial toss. The Dodgeball can also be used to jump off of"
+      ]
+    },
+    {
+      "name": "Fan",
+      "market_hash_name": "Fan",
+      "classid": "208647470",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGPKx4NUQaKG27WNgw",
+      "descriptions": [
+        "The Fan will push opponents away when used in close proximity.  The Fan can also be used to deflect most weapons."
+      ]
+    },
+    {
+      "name": "Socket",
+      "market_hash_name": "Socket",
+      "classid": "207637061",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2E7Iu6_IYJXONM",
+      "descriptions": [
+        "Don't worry; it won't hurt if you poke Socket's eyes with coins or paperclips. It will make you a jerk though."
+      ]
+    },
+    {
+      "name": "Butterscotch",
+      "market_hash_name": "Butterscotch",
+      "classid": "207637059",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGX5lPOeqQnuuGQ",
+      "descriptions": [
+        "Yet another pet quickly named by people who weren't all that creative."
+      ]
+    },
+    {
+      "name": "Giovanni",
+      "market_hash_name": "Giovanni",
+      "classid": "207637097",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmg7Iu6_8S3J6p4",
+      "descriptions": [
+        "Dashing. Dangerous. Debonnaire. FAST."
+      ]
+    },
+    {
+      "name": "Dixon",
+      "market_hash_name": "Dixon",
+      "classid": "213635631",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2Q7Iu6_qM4C39I",
+      "descriptions": [
+        "I'm fine with eyes that draws you in... I'm not fine with eyes that make a sucking sound at the same time."
+      ]
+    },
+    {
+      "name": "Frenchie McTwist",
+      "market_hash_name": "Frenchie McTwist",
+      "classid": "213635840",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWM7Iu6_-r0zb1A",
+      "descriptions": [
+        "After retiring from a legionnaires life, parting with the helmet was too much. Helmets are extensions of the self and therefore must be worn with conviction and pride."
+      ]
+    },
+    {
+      "name": "Vacuum",
+      "market_hash_name": "Vacuum",
+      "classid": "208647479",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGfKxNWVAXDwUDgqvseWUM",
+      "descriptions": [
+        "Not sure what brand it is, but it sucks objects toward the user.  Be it projectiles or other players."
+      ]
+    },
+    {
+      "name": "Betty the Yeti",
+      "market_hash_name": "Betty the Yeti",
+      "classid": "207637100",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWc7Iu6_u9ry-MI",
+      "descriptions": [
+        "Betty loves to compare snowflakes.  She believes that two snowflakes might actually be the same."
+      ]
+    },
+    {
+      "name": "Mildred",
+      "market_hash_name": "Mildred",
+      "classid": "207637066",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWg7Iu6_LDyCZuo",
+      "descriptions": [
+        "You may have heard about how blind people can be really great at hearing things. Well, Mildred can't hear, see or smell, but she can find out everything she needs to know by tasting things. You do not want her to find out about you."
+      ]
+    },
+    {
+      "name": "Eduardo",
+      "market_hash_name": "Eduardo",
+      "classid": "208647483",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHGI7Iu6_ywo4ahs",
+      "descriptions": [
+        "Lizard, iguana or gecko? Eduardo can be whatever you want Eduardo to be."
+      ]
+    },
+    {
+      "name": "Ed",
+      "market_hash_name": "Ed",
+      "classid": "213635639",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2E7Iu6_AN40r2k",
+      "descriptions": [
+        "Former metal shop teacher turned artist, Ed now spends his time creating rather than educating. He does what he likes to call, Metal Origami."
+      ]
+    },
+    {
+      "name": "Cabeza en Fuego",
+      "market_hash_name": "Cabeza en Fuego",
+      "classid": "213635836",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2A7Iu6_ApBiF_8",
+      "descriptions": [
+        "Victorious otra vez!"
+      ]
+    },
+    {
+      "name": "Wearing your face on my face",
+      "market_hash_name": "Wearing your face on my face",
+      "classid": "213635835",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2I7Iu6_lAqVYyE",
+      "descriptions": [
+        "A timeless tradition championed by the unlikely."
+      ]
+    },
+    {
+      "name": "Robbin' Good",
+      "market_hash_name": "Robbin' Good",
+      "classid": "207637102",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGU7Iu6_VWTRfXM",
+      "descriptions": [
+        "Stealing is wrong, except for when it feels right."
+      ]
+    },
+    {
+      "name": "Maggie",
+      "market_hash_name": "Maggie",
+      "classid": "207637101",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGc7Iu6_UHq2Aq4",
+      "descriptions": [
+        "Maggie generally tends to get very cold ears once the temperature drops.  She wears this just in case it happens again."
+      ]
+    },
+    {
+      "name": "Cool Kid",
+      "market_hash_name": "Cool Kid",
+      "classid": "207637060",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iE35lPOd-VZQi6Q",
+      "descriptions": [
+        "A shield against UV rays.  He's constantly indoors, though.  In prison.  Not really sure why he's still wearing them."
+      ]
+    },
+    {
+      "name": "Zip",
+      "market_hash_name": "Zip",
+      "classid": "213635687",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnYq6oC9joRi6FcA",
+      "descriptions": [
+        "Mums the word. It's also the only word Zip knows."
+      ]
+    },
+    {
+      "name": "Flappy Flappington",
+      "market_hash_name": "Flappy Flappington",
+      "classid": "207637064",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGY7Iu6_f-JQE0E",
+      "descriptions": [
+        "He can turn into a flock of bats and do anything he wants.  Except he doesn't ever choose to do this because he likes a challenge."
+      ]
+    },
+    {
+      "name": "Kazu",
+      "market_hash_name": "Kazu",
+      "classid": "213635634",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2U7Iu6_JSd8_7o",
+      "descriptions": [
+        "Kazu's listened to many stories about the &amp;quot;land of one thousand battling blocks&amp;quot;. Maybe he could have escaped if he'd spent more time practicing his &amp;quot;ninja vanish&amp;quot; instead."
+      ]
+    },
+    {
+      "name": "Badger",
+      "market_hash_name": "Badger",
+      "classid": "208647472",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHX5lPOfigSSmEw",
+      "descriptions": [
+        "This one time when I was a child I attended a super hero party.  I put on a mask and went to the party only to find it wasn't a super hero themed party."
+      ]
+    },
+    {
+      "name": "Kev",
+      "market_hash_name": "Kev",
+      "classid": "208647477",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2M7Iu6_yAYUZls",
+      "descriptions": [
+        "A doctor would be very handy in BattleBlock Theater if everyone wasn't fine one moment and dead the next."
+      ]
+    },
+    {
+      "name": "Toast",
+      "market_hash_name": "Toast",
+      "classid": "213635711",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2EhfPC2AnVnIZbZ",
+      "descriptions": [
+        "A toast, to Toast! It's delicious!"
+      ]
+    },
+    {
+      "name": "Mutey",
+      "market_hash_name": "Mutey",
+      "classid": "208647464",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWA7Iu6_tikY70A",
+      "descriptions": [
+        "Whatsamatter? Cat got your... oh."
+      ]
+    },
+    {
+      "name": "Jack Runningback",
+      "market_hash_name": "Jack Runningback",
+      "classid": "207637099",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWk7Iu6_th4T3nM",
+      "descriptions": [
+        "Its a good thing the rest of the team is there, because this guy runs the wrong way EVERY TIME."
+      ]
+    },
+    {
+      "name": "Coco",
+      "market_hash_name": "Coco",
+      "classid": "213635848",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHGM7Iu6_jeBEIHw",
+      "descriptions": [
+        "This would have been a great disguise for an abandoned island if not for the great Cocobutter Purge of 1850."
+      ]
+    },
+    {
+      "name": "Dad",
+      "market_hash_name": "Dad",
+      "classid": "207637107",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGH5lPOcM3J5i1w",
+      "descriptions": [
+        "Father figure. Domestic patriarch. Pops."
+      ]
+    },
+    {
+      "name": "Olaf",
+      "market_hash_name": "Olaf",
+      "classid": "213635841",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2Y7Iu6_LuZZgSQ",
+      "descriptions": [
+        "Dock2B: The S.S. Friendship. Dock22B: The S.S. Brothbeard. Even vikings need to pay attention to details sometimes."
+      ]
+    },
+    {
+      "name": "Paloma",
+      "market_hash_name": "Paloma",
+      "classid": "208076959",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2M7Iu6_vASpuQE",
+      "descriptions": [
+        "She's got a thing for treefrogs."
+      ]
+    },
+    {
+      "name": "Billy Skinless",
+      "market_hash_name": "Billy Skinless",
+      "classid": "213635635",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGM7Iu6_BcCiXek",
+      "descriptions": [
+        "Skulls are dime-a-dozen in BattleBlock Theater. You're probably standing on one right now."
+      ]
+    },
+    {
+      "name": "Honeycubes",
+      "market_hash_name": "Honeycubes",
+      "classid": "207637106",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHn5lPOdKOTwmiA",
+      "descriptions": [
+        "Actor extraordinare.  You may have seen him in such games as Castle Crashers and Cardinal Sin Society."
+      ]
+    },
+    {
+      "name": "Ninetynine Percent",
+      "market_hash_name": "Ninetynine Percent",
+      "classid": "208647500",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH35lPOdJ2Wo3Jg",
+      "descriptions": [
+        "His Occupy BattleBlock Theater movement was so successful that they wouldn't let him leave."
+      ]
+    },
+    {
+      "name": "Mr. Serious",
+      "market_hash_name": "Mr. Serious",
+      "classid": "207637065",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGg7Iu6_MMODOvM",
+      "descriptions": [
+        "It's just a name.  Why does everyone think a name is going to determine whether or not he's going to giggle all the time???"
+      ]
+    },
+    {
+      "name": "Fat Kid",
+      "market_hash_name": "Fat Kid",
+      "classid": "208076914",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2M7Iu6_ynLXP0k",
+      "descriptions": [
+        "Fat Kid spent many-a-day running around with Alien, and just look at him now!"
+      ]
+    },
+    {
+      "name": "Reverse Toast Guy",
+      "market_hash_name": "Reverse Toast Guy",
+      "classid": "213635834",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWE7Iu6_2GfvONA",
+      "descriptions": [
+        "It didn't catch on. Its just not toast without that little butt shape on one end."
+      ]
+    },
+    {
+      "name": "Carl Clubs",
+      "market_hash_name": "Carl Clubs",
+      "classid": "213635650",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnYa6oC9iu4qIDkA",
+      "descriptions": [
+        "Of all the theaters in all the world, he had to walk into this one."
+      ]
+    },
+    {
+      "name": "Fuji",
+      "market_hash_name": "Fuji",
+      "classid": "208076911",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGE7Iu6_gbw8LGk",
+      "descriptions": [
+        "A thousand strikes!"
+      ]
+    },
+    {
+      "name": "Alistair",
+      "market_hash_name": "Alistair",
+      "classid": "208647503",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmk7Iu6_mRF4VQg",
+      "descriptions": [
+        "It's complicated."
+      ]
+    },
+    {
+      "name": "Schmucko",
+      "market_hash_name": "Schmucko",
+      "classid": "213635785",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgZ66oC9g1hmrBsA",
+      "descriptions": [
+        "Brother to the Orange Princess, Schmucko has a chip on his shoulder. I assume it honks and squirts water like everything else he owns."
+      ]
+    },
+    {
+      "name": "FizzleSticks",
+      "market_hash_name": "FizzleSticks",
+      "classid": "208647485",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHGQ7Iu6_bJ1e1Eg",
+      "descriptions": [
+        "You gonna eat your fish sticks?"
+      ]
+    },
+    {
+      "name": "Baker",
+      "market_hash_name": "Baker",
+      "classid": "213635646",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmfPC2AmLuXMoS",
+      "descriptions": [
+        "The Royal Triangle Navy left Baker with a pair of sea legs and an unquenchable thirst for the open sea. Drink up! There's plenty!"
+      ]
+    },
+    {
+      "name": "Billy",
+      "market_hash_name": "Billy",
+      "classid": "213635641",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGY7Iu6_yQrVKo8",
+      "descriptions": [
+        "Pretty sure this isn't his real name, but we all call him this in the slammer."
+      ]
+    },
+    {
+      "name": "Clock Cat",
+      "market_hash_name": "Clock Cat",
+      "classid": "213635696",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWA7Iu6_Pgka7bc",
+      "descriptions": [
+        "Clock Cat knows the exact time of your death, but all he does is make that face..."
+      ]
+    },
+    {
+      "name": "I SEE YOU",
+      "market_hash_name": "I SEE YOU",
+      "classid": "213635727",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QnfPC2Ak1ploea",
+      "descriptions": [
+        "When you're dealing with mystical forces you see a lot of crazy things.  Sometimes those things are ducksharks, or cursed hats, maybe talking car heads.  And sometimes they're four eyed head things that stare right into your soul."
+      ]
+    },
+    {
+      "name": "Tooth Brush",
+      "market_hash_name": "Tooth Brush",
+      "classid": "213635759",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IifPC2Ap62jkC_",
+      "descriptions": [
+        "The last of his kind. Tooth Brush was marooned after a failed colonization attempt by his people. Tooth Brush is not alone in this world for he finds comfort in exchaning stories with his friend, Boot."
+      ]
+    },
+    {
+      "name": "Clever Girl",
+      "market_hash_name": "Clever Girl",
+      "classid": "207637067",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmA7Iu6_5PBX6UQ",
+      "descriptions": [
+        "One of the alpha-cooperators of the Jurrasic era."
+      ]
+    },
+    {
+      "name": "Meteor",
+      "market_hash_name": "Meteor",
+      "classid": "208647462",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGk7Iu6_faSACyw",
+      "descriptions": [
+        "Named himself after the very thing that killed everyone he knew, so he'll always count his blessings."
+      ]
+    },
+    {
+      "name": "Tots",
+      "market_hash_name": "Tots",
+      "classid": "213635632",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iEn5lPOfsflKW6Q",
+      "descriptions": [
+        "This one time I went to an 80s party.  I had slotted plastic glasses on.  When  I realized it wasn't an 80s party, I removed my glasses, but kept the hat."
+      ]
+    },
+    {
+      "name": "Stamps",
+      "market_hash_name": "Stamps",
+      "classid": "207637062",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2g7Iu6_8Rw5rh8",
+      "descriptions": [
+        "Yet another victim of toxic adhesives and a solemn reminder as to why we all switched to e-mail in the first place."
+      ]
+    },
+    {
+      "name": "Binky",
+      "market_hash_name": "Binky",
+      "classid": "207637105",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2A7Iu6_zoITRqo",
+      "descriptions": [
+        "I don't always go by the name Binky, you know.  It's just a nickname.  I went by this nickname for so long I can barely even remember my one true name"
+      ]
+    },
+    {
+      "name": "Mister Wonderful",
+      "market_hash_name": "Mister Wonderful",
+      "classid": "207637103",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iG2k7Iu6_H65E9W0",
+      "descriptions": [
+        "The pageant circuit did a number on this one."
+      ]
+    },
+    {
+      "name": "Secret Sam",
+      "market_hash_name": "Secret Sam",
+      "classid": "213635633",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGI7Iu6_ukup4Ds",
+      "descriptions": [
+        "Sam's identity isn't a secret because of his diguise, its just because no one cares. Like, at all."
+      ]
+    },
+    {
+      "name": "Mouth",
+      "market_hash_name": "Mouth",
+      "classid": "213635638",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmE7Iu6_9m9XP0E",
+      "descriptions": [
+        "Sentient eyeballs are more rampant than you think.  Seriously."
+      ]
+    },
+    {
+      "name": "Gertrude",
+      "market_hash_name": "Gertrude",
+      "classid": "213635815",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmYq6oC9iozih6YQ",
+      "descriptions": [
+        "Combined with her hat, she makes up 2/3rds of the food pyramid."
+      ]
+    },
+    {
+      "name": "Horace Headcavity",
+      "market_hash_name": "Horace Headcavity",
+      "classid": "207637113",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkZK6oC9iu8YOpVg",
+      "descriptions": [
+        "One ill-fated bike ride away from his prime. To be fair, it would have been really hard to find a helmet with his head shape."
+      ]
+    },
+    {
+      "name": "Crow's Feet",
+      "market_hash_name": "Crow's Feet",
+      "classid": "208647481",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkZ66oC9j9wq5VAw",
+      "descriptions": [
+        "Once a growth market, scarecrow mask design has evoloved over the years.  From mere burlap sacks tied off at the base, to knitwear and intricate cross-stitching.  Recent advancements show that 1/4 of the time these garmants may or may not work on cats."
+      ]
+    },
+    {
+      "name": "Boom!",
+      "market_hash_name": "Boom!",
+      "classid": "213635725",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MtfPC2Ajca0RjE",
+      "descriptions": [
+        "Sure, you could use him with the Grenade, but that's a little on the nose, don't you think? Try the flying disc instead; it is the gentlemen's weapon of choice."
+      ]
+    },
+    {
+      "name": "Triple Threat",
+      "market_hash_name": "Triple Threat",
+      "classid": "213635742",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2YkfPC2ApcG12VX",
+      "descriptions": [
+        "Quite the lady's man. Lady's men? But the only thing worse than a love triangle is a love hexagon."
+      ]
+    },
+    {
+      "name": "Buckle Your Pants",
+      "market_hash_name": "Buckle Your Pants",
+      "classid": "213635717",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IhfPC2AjAQcR2-",
+      "descriptions": [
+        "If you choose to do this, whatever you do, make sure you leave the fly down."
+      ]
+    },
+    {
+      "name": "Supple Headwound",
+      "market_hash_name": "Supple Headwound",
+      "classid": "213635640",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2U7Iu6_vPdFLdg",
+      "descriptions": [
+        "This little one is highly susceptible to lacerations and spontaneous hemorrhaging.  This bonnet is both fashionable and functional."
+      ]
+    },
+    {
+      "name": "Bookie Boy",
+      "market_hash_name": "Bookie Boy",
+      "classid": "213635850",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGWE7Iu6_4X92KKg",
+      "descriptions": [
+        "Bookie Boy runs up and down the stairs until he has nearly 250 times the recommended cardio activity per day.  And yet he'll keep going until someone takes the &amp;quot;bookie&amp;quot; away."
+      ]
+    },
+    {
+      "name": "Pistachio PepperPants",
+      "market_hash_name": "Pistachio PepperPants",
+      "classid": "213635837",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmI7Iu6_gYkllNw",
+      "descriptions": [
+        "A prisoner of suave distinction. Enjoys the finer things such as mustache oil and hat smuggling."
+      ]
+    },
+    {
+      "name": "Margaret",
+      "market_hash_name": "Margaret",
+      "classid": "213635842",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmM7Iu6_d_Si9WE",
+      "descriptions": [
+        "Fresh out of the finest salon the world's ever seen!"
+      ]
+    },
+    {
+      "name": "Surly Stu",
+      "market_hash_name": "Surly Stu",
+      "classid": "207637068",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmc7Iu6_tIOdEFo",
+      "descriptions": [
+        "Surly Stu has had enough of your nonsense."
+      ]
+    },
+    {
+      "name": "Behemoth Chicken",
+      "market_hash_name": "Behemoth Chicken",
+      "classid": "213635741",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2YmfPC2AniUPwna",
+      "descriptions": [
+        "Our logo, our mascot, our inspiration. With slightly bigger eyes of course."
+      ]
+    },
+    {
+      "name": "FBI Agent 2",
+      "market_hash_name": "FBI Agent 2",
+      "classid": "213635708",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2U7Iu6_9vhQ-90",
+      "descriptions": [
+        "Unable to recall if he was Agent 1's exit plan or escape route, Agent 2 allowed his capture in order to ask Agent 1 directly.  This plan seemingly backfired."
+      ]
+    },
+    {
+      "name": "Tubey",
+      "market_hash_name": "Tubey",
+      "classid": "207637098",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmU7Iu6_8PhelSA",
+      "descriptions": [
+        "Is it a nose or an ear? Both actually. This is Tubey smelling the sound of footsteps. Poor Tubey."
+      ]
+    },
+    {
+      "name": "Momo",
+      "market_hash_name": "Momo",
+      "classid": "208647484",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iGGE7Iu6_jA-PtpA",
+      "descriptions": [
+        "Momo is a chubby little rabbit.  Thanks for rescuing her."
+      ]
+    },
+    {
+      "name": "Jackson",
+      "market_hash_name": "Jackson",
+      "classid": "213635833",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGM7Iu6_0IRc_W8",
+      "descriptions": [
+        "Jackson really likes his blanket."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Crispy Exterior",
+      "market_hash_name": "Crispy Exterior",
+      "classid": "208122125",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iHmY7Iu6__R0VlbE",
+      "descriptions": [
+        "I bet you even use him with the Fireball. Nerd. Nah, just kidding-- wizards are way cool."
+      ]
+    },
+    {
+      "name": "Svelt",
+      "market_hash_name": "Svelt",
+      "classid": "208647463",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2Y7Iu6_qyRO7KU",
+      "descriptions": [
+        "Paranoia and limited eye contact plague the everyday ongoings of this up and comer."
+      ]
+    },
+    {
+      "name": "Ordolot'KSyufivnd",
+      "market_hash_name": "Ordolot'KSyufivnd",
+      "classid": "207637069",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2c7Iu6_k4O6iFQ",
+      "descriptions": [
+        "Splurkt ukt brca pntl fln.  Fln."
+      ]
+    },
+    {
+      "name": "Penelope",
+      "market_hash_name": "Penelope",
+      "classid": "207637070",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhhGUw2r0E3iH2k7Iu6_83nwMp0",
+      "descriptions": [
+        "Constantly misbehaving, yet loyal."
+      ]
+    },
+    {
+      "name": "Cat Control",
+      "market_hash_name": "Cat Control",
+      "classid": "213635756",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MmfPC2AklDHfMM",
+      "descriptions": [
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Duck Shark",
+      "market_hash_name": "Duck Shark",
+      "classid": "213635764",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2EjfPC2AhggGcPY",
+      "descriptions": [
+        "Strange that only prisoners and Duck Sharks are able to blow themselves up. Yeah, you forgot how weird that was, didn't you?"
+      ]
+    },
+    {
+      "name": "Furbottom",
+      "market_hash_name": "Furbottom",
+      "classid": "213635760",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IgfPC2AjCPl-c3",
+      "descriptions": [
+        "Self-made billionaire, cat fanatic, and theatrics afficianado."
+      ]
+    },
+    {
+      "name": "Peeps",
+      "market_hash_name": "Peeps",
+      "classid": "213635728",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QhfPC2Aoi6_IIt",
+      "descriptions": [
+        "Ever since his first rollercoaster ride, Peeps has not been able to wipe that smile off of his face. Everybody thinks aliens are in search of resources or colonization.  No no,  rollercoasters. Currency of the future."
+      ]
+    },
+    {
+      "name": "Carrots",
+      "market_hash_name": "Carrots",
+      "classid": "207637093",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2k7Iu6_c7bSv3I",
+      "descriptions": [
+        "Carrots are a great source of Vitamin K. What happens when you go over your daily recommended dose of Vitamin K? This. This happens."
+      ]
+    },
+    {
+      "name": "Dan",
+      "market_hash_name": "Dan",
+      "classid": "208647475",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHn5lPOcjauxfoQ",
+      "descriptions": [
+        "The best guy I've ever known!"
+      ]
+    },
+    {
+      "name": "Lightning",
+      "market_hash_name": "Lightning",
+      "classid": "213635783",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2E7Iu6_d1hD4ps",
+      "descriptions": [
+        "He got made fun of growing up."
+      ]
+    },
+    {
+      "name": "Stephen",
+      "market_hash_name": "Stephen",
+      "classid": "213635700",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHX5lPOf2h3akrg",
+      "descriptions": [
+        "A former stock broker turned philanthropist. Stephen is a big softie."
+      ]
+    },
+    {
+      "name": "Moose",
+      "market_hash_name": "Moose",
+      "classid": "213635732",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2UnfPC2Ap4UpNZ6",
+      "descriptions": [
+        "A beautiful creature. A majestic beast. A total jerk at the local bowling alley."
+      ]
+    },
+    {
+      "name": "25% off",
+      "market_hash_name": "25% off",
+      "classid": "213635748",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QsfPC2Am-niddx",
+      "descriptions": [
+        "When you ask them to take a little bit off the top, maybe you should be more specific."
+      ]
+    },
+    {
+      "name": "Paul",
+      "market_hash_name": "Paul",
+      "classid": "213635749",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QifPC2AsGvZHfk",
+      "descriptions": [
+        "Evil never sleeps, and neither will you once you've signed up for the Platinum Paul Package. No refunds or cancellations accepted."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Ms. Pump",
+      "market_hash_name": "Ms. Pump",
+      "classid": "213635715",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IkfPC2AqxyudfL",
+      "descriptions": [
+        "If wearing your heart on your sleeve isn't sensitive enough for you, please consider wearing your heart directly on your face. They'll know how you feel, and you'll know how they feel. Terrified, most likely."
+      ]
+    },
+    {
+      "name": "Aloysius",
+      "market_hash_name": "Aloysius",
+      "classid": "213635701",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHGA7Iu6_YvEnthk",
+      "descriptions": [
+        "Thinker and cat lover, Aloysius is deeply saddened by the kitty uprising. Consumed by frustration he turns to etching prisoner portraits on the walls of his cell."
+      ]
+    },
+    {
+      "name": "Pickles",
+      "market_hash_name": "Pickles",
+      "classid": "208647493",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2U7Iu6_n8EGRMo",
+      "descriptions": [
+        "Master of standing on a ball with one foot while smelling his armpits. Pickling is a rather complex form of chemistry that requires not only brainpower, but appendage dexterity."
+      ]
+    },
+    {
+      "name": "Born With It",
+      "market_hash_name": "Born With It",
+      "classid": "208076962",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iEn5lPOdMzsF-gQ",
+      "descriptions": [
+        "How does he do it? Simple: cat oil. How you get cat oil is less simple."
+      ]
+    },
+    {
+      "name": "Siren",
+      "market_hash_name": "Siren",
+      "classid": "213635758",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IsfPC2Aud1AHiV",
+      "descriptions": [
+        "Legends say, Sirens once lured sailors to their doom. Really? I don't get the appeal."
+      ]
+    },
+    {
+      "name": "FBI Agent 1",
+      "market_hash_name": "FBI Agent 1",
+      "classid": "208076913",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2Q7Iu6_XnujKuE",
+      "descriptions": [
+        "This operative's investigations were cut short when a bevy of freakish felines captured his attention. Along with the rest of him, for that matter. Or was that his plan all along..."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Pre-dater",
+      "market_hash_name": "Pre-dater",
+      "classid": "208647467",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmI7Iu6_-qkZ5JU",
+      "descriptions": [
+        "Hunger. Hunger for the salty sea air and the briney taste of seawater that surrounds fresh prey. Hunger."
+      ]
+    },
+    {
+      "name": "Happy",
+      "market_hash_name": "Happy",
+      "classid": "208649640",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2A7Iu6_PhbZMNU",
+      "descriptions": [
+        "That's right.. you shouldn't judge a book by its cover. Nah, I'm just kidding: this guy is a huge bummer."
+      ]
+    },
+    {
+      "name": "Shapes",
+      "market_hash_name": "Shapes",
+      "classid": "213635770",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2Y7Iu6_tds8BIg",
+      "descriptions": [
+        "Comatose for 10 yrs, Shapes found solace at sea."
+      ]
+    },
+    {
+      "name": "Eye Strain",
+      "market_hash_name": "Eye Strain",
+      "classid": "213635774",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmM7Iu6_QB96DNc",
+      "descriptions": [
+        "Seriously, just stop staring for a few seconds every hour."
+      ]
+    },
+    {
+      "name": "Poopdeck Paulie",
+      "market_hash_name": "Poopdeck Paulie",
+      "classid": "208649642",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHGM7Iu6_aSJD5OI",
+      "descriptions": [
+        "Its hard to find work as a poopdecksman when so few ships have a poopdeck anymore."
+      ]
+    },
+    {
+      "name": "Home Remedy",
+      "market_hash_name": "Home Remedy",
+      "classid": "208647471",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWI7Iu6_ls-3Q4g",
+      "descriptions": [
+        "Has a smartphone handy at all times.  Freaks everyone out.  Never diagnose yourself through the internet."
+      ]
+    },
+    {
+      "name": "Cease and Desist",
+      "market_hash_name": "Cease and Desist",
+      "classid": "208649643",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWk7Iu6_SU_o_Z4",
+      "descriptions": [
+        "Only the smell of fear motivates Calvin to act. And when he does... it is nothing short of glorious."
+      ]
+    },
+    {
+      "name": "Gordon",
+      "market_hash_name": "Gordon",
+      "classid": "213635691",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2I7Iu6_NvhO7AE",
+      "descriptions": [
+        "Molecular gastronomist and inventor of seaweed pie. Life on the island has elevated his creative juices only to be shackled by the tyranny of his wet food loving captors."
+      ]
+    },
+    {
+      "name": "Barry",
+      "market_hash_name": "Barry",
+      "classid": "207637072",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGX5lPOeUvAe2_w",
+      "descriptions": [
+        "Bears have a long and fascinating history on the stage. Barry, however, is just a guy with an outer ear condition."
+      ]
+    },
+    {
+      "name": "Tinsel Atwater",
+      "market_hash_name": "Tinsel Atwater",
+      "classid": "213635703",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2Y7Iu6_zVBz3L8",
+      "descriptions": [
+        "Mumified at the tender age of 162, only to awake a prisoner of brick and fabric."
+      ]
+    },
+    {
+      "name": "Scuttlebutt",
+      "market_hash_name": "Scuttlebutt",
+      "classid": "207637074",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmU7Iu6_0bxHzsE",
+      "descriptions": [
+        "Muffled to the MAX"
+      ]
+    },
+    {
+      "name": "Casserole",
+      "market_hash_name": "Casserole",
+      "classid": "208122578",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmQ7Iu6_Q89oAOY",
+      "descriptions": [
+        "The taste of goodness is like chicken casserole for the soul."
+      ]
+    },
+    {
+      "name": "Tender Vittles, Sloth Extraordinaire",
+      "market_hash_name": "Tender Vittles, Sloth Extraordinaire",
+      "classid": "213635768",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2g7Iu6_5PM5Gxs",
+      "descriptions": [
+        "Supple-limbed, tree-top sweetie. Also, delicious."
+      ]
+    },
+    {
+      "name": "Reginald",
+      "market_hash_name": "Reginald",
+      "classid": "208649641",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH35lPOf_4nJ1ig",
+      "descriptions": [
+        "Still feels really good about being called a genius."
+      ]
+    },
+    {
+      "name": "Snail",
+      "market_hash_name": "Snail",
+      "classid": "213635757",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MkfPC2ApLp3zYx",
+      "descriptions": [
+        "What you really don't want to see is when he sucks his whole body up into that shell. Or maybe you do, you molluscophile, you."
+      ]
+    },
+    {
+      "name": "The King",
+      "market_hash_name": "The King",
+      "classid": "213635709",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2c7Iu6_8RL8ZS4",
+      "descriptions": [
+        "He knows a thing or two about the value of green gems."
+      ]
+    },
+    {
+      "name": "Barbarian",
+      "market_hash_name": "Barbarian",
+      "classid": "213635707",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2EkfPC2ApoeDA7Q",
+      "descriptions": [
+        "Bearing the ceremonial helmet of his forefathers is really just an excuse to play in the dirt and be extra rowdy."
+      ]
+    },
+    {
+      "name": "Rammy",
+      "market_hash_name": "Rammy",
+      "classid": "213635706",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2g7Iu6_s5sttMk",
+      "descriptions": [
+        "Rammy evolved just in time to be locked up in BattleBlock Theater. Some ungulates have all the luck."
+      ]
+    },
+    {
+      "name": "Troll",
+      "market_hash_name": "Troll",
+      "classid": "213635766",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2EmfPC2ApXsnw3O",
+      "descriptions": [
+        "Ah yes, homo trogloditus... better known as the common troll. Nearly hunted to extinction for their obnoxinary glands, trolls have seen a recent population explosion in the digital age."
+      ]
+    },
+    {
+      "name": "Thief",
+      "market_hash_name": "Thief",
+      "classid": "206703662",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2Y7Iu6__FJVMt8",
+      "descriptions": [
+        "The Thief's archery ability will not score him a role in a feature film anytime soon. Though appearing in two games ain't too shabby. Watch out though.  He tends to take extra slices on pizza day."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Gluten",
+      "market_hash_name": "Gluten",
+      "classid": "213635744",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2UifPC2AmknUBEG",
+      "descriptions": [
+        "A delicious little healer."
+      ]
+    },
+    {
+      "name": "Simon",
+      "market_hash_name": "Simon",
+      "classid": "213635773",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2M7Iu6_QTJ3-0E",
+      "descriptions": [
+        "An outlaw with a heart of gem. A heart of yarn. Sprmfff. A heart of heart."
+      ]
+    },
+    {
+      "name": "Lee",
+      "market_hash_name": "Lee",
+      "classid": "213635778",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2c7Iu6_LifJ0rw",
+      "descriptions": [
+        "Lifts boxes nearly all day.  Writes music all night. No ability to be upset."
+      ]
+    },
+    {
+      "name": "Flowers",
+      "market_hash_name": "Flowers",
+      "classid": "208647492",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmg7Iu6_CxpPsHY",
+      "descriptions": [
+        "It's a buyer's market..........for now."
+      ]
+    },
+    {
+      "name": "Gaz",
+      "market_hash_name": "Gaz",
+      "classid": "213635695",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHH5lPOc9NIbBuA",
+      "descriptions": [
+        "Gaz suffers from a gatro intestinal ailment called galdskjg;alskdjgfksldjgfalsd."
+      ]
+    },
+    {
+      "name": "Aaron",
+      "market_hash_name": "Aaron",
+      "classid": "207637073",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWM7Iu6_xSZwlAQ",
+      "descriptions": [
+        "Aaron's favorite stage of grief is denial. That and chapter 4-5."
+      ]
+    },
+    {
+      "name": "Sebastian",
+      "market_hash_name": "Sebastian",
+      "classid": "208647499",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmA7Iu6_L-ilj-s",
+      "descriptions": [
+        "He was WITH him in the bookstore.  He was WITH him in the swamp."
+      ]
+    },
+    {
+      "name": "Dental Bill",
+      "market_hash_name": "Dental Bill",
+      "classid": "213635771",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2Q7Iu6_t3UXlqQ",
+      "descriptions": [
+        "Deceptively expensive. Total gem digger.  Insurance just doesn't cover the stuff he demands."
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "market_hash_name": "Charlotte",
+      "classid": "213635689",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHmk7Iu6_N3O2T4k",
+      "descriptions": [
+        "Porcine is sublime, but only when you're on time."
+      ]
+    },
+    {
+      "name": "The Final Unicorn",
+      "market_hash_name": "The Final Unicorn",
+      "classid": "213635724",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MjfPC2Au93McD3",
+      "descriptions": [
+        "This is it: this is the last unicorn you get. We're putting our foot down."
+      ]
+    },
+    {
+      "name": "Davey",
+      "market_hash_name": "Davey",
+      "classid": "213635675",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkZa6oC9gfw6pEsQ",
+      "descriptions": [
+        "Thanks again, Davey... for everything."
+      ]
+    },
+    {
+      "name": "John-Paul",
+      "market_hash_name": "John-Paul",
+      "classid": "213635671",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnZK6oC9gqKIV7EQ",
+      "descriptions": [
+        "A well-groomed beard is enough to keep John-Paul happy.  Though he feels Franklin is biting on his style a bit."
+      ]
+    },
+    {
+      "name": "Eric",
+      "market_hash_name": "Eric",
+      "classid": "213635667",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgaq6oC9jLZfsqfQ",
+      "descriptions": [
+        "Turntablist, musician, and author. This guy literally wrote the soundtrack to the prisoners lives."
+      ]
+    },
+    {
+      "name": "What is that thing?",
+      "market_hash_name": "What is that thing?",
+      "classid": "213635805",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUga66oC9gvhQT5cg",
+      "descriptions": [
+        "Rule #1: never be the first to fall asleep at a sleep-over. Just don't."
+      ]
+    },
+    {
+      "name": "Gun Show",
+      "market_hash_name": "Gun Show",
+      "classid": "207637087",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgY66oC9g4-8kPoQ",
+      "descriptions": [
+        "That will be two tickets, please."
+      ]
+    },
+    {
+      "name": "Dorchester",
+      "market_hash_name": "Dorchester",
+      "classid": "208122120",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkaq6oC9iD94wadg",
+      "descriptions": [
+        "Precision.  A steady hand. Dorchester is by far one of the most excellent bowlers anybody has ever been lucky enough to witness."
+      ]
+    },
+    {
+      "name": "Brianne",
+      "market_hash_name": "Brianne",
+      "classid": "213635786",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhZ66oC9h72Y464Q",
+      "descriptions": [
+        "Of course, he didn't know how small his brain actually was until it was too late. Now everyone just points and laughs..."
+      ]
+    },
+    {
+      "name": "Silent but Deadly",
+      "market_hash_name": "Silent but Deadly",
+      "classid": "213635688",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjYa6oC9iDqoZ_YA",
+      "descriptions": [
+        "Like a smell that cannot be seen. Or and odor that cannot be heard.  He exists in the in between."
+      ]
+    },
+    {
+      "name": "Mr. Bobbins",
+      "market_hash_name": "Mr. Bobbins",
+      "classid": "213635720",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MlfPC2Amb_Hpeu",
+      "descriptions": [
+        "Mr. bobbins is not just a prisoner of the theater.  But a walking prison in his own head. No, literally his head is prison to a symbiotic wormlike lifeform that feeds off him daily."
+      ]
+    },
+    {
+      "name": "Meebs",
+      "market_hash_name": "Meebs",
+      "classid": "213635734",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2UjfPC2Aiw0PDjJ",
+      "descriptions": [
+        "After losing his lightbulb eyes, Meebs was left to wander the planet blind.  Until one day this walking sconce found his way onto a certain friendly boat."
+      ]
+    },
+    {
+      "name": "Terry",
+      "market_hash_name": "Terry",
+      "classid": "213635772",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2A7Iu6_k4Y8nP0",
+      "descriptions": [
+        "How to keep a cool head under pressure: just add water"
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Jed",
+      "market_hash_name": "Jed",
+      "classid": "208647491",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iG2g7Iu6_F4SjxH8",
+      "descriptions": [
+        "Jed will get you rich, just get him out of prison and he'll show you.  You can trust him."
+      ]
+    },
+    {
+      "name": "Abe",
+      "market_hash_name": "Abe",
+      "classid": "208076960",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGI7Iu6_8axme6g",
+      "descriptions": [
+        "Abe doesn't say all that much but I think he's got a seriously deep soul."
+      ]
+    },
+    {
+      "name": "Blooky",
+      "market_hash_name": "Blooky",
+      "classid": "208647466",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWQ7Iu6_u9dInJQ",
+      "descriptions": [
+        "Blooky went on an adventure with Stumble Buns.  They were in a boat, just like Hatty and his friends.  It's crazy.  It's almost like the same story except no real conclusion until THIS story.  The one you're playing right now."
+      ]
+    },
+    {
+      "name": "Ruggedly handsome man from my dreams",
+      "market_hash_name": "Ruggedly handsome man from my dreams",
+      "classid": "213635704",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iHGE7Iu6_wVw8EWY",
+      "descriptions": [
+        "Once lost in the dreamstream only to be discovered in the forefront of your dream teams."
+      ]
+    },
+    {
+      "name": "Stumble Buns",
+      "market_hash_name": "Stumble Buns",
+      "classid": "213635777",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWY7Iu6_v2meL3w",
+      "descriptions": [
+        "Some say I'm a dreamer..."
+      ]
+    },
+    {
+      "name": "Bulbus",
+      "market_hash_name": "Bulbus",
+      "classid": "213635702",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2E7Iu6_htHgops",
+      "descriptions": [
+        "An abandoned amateur clay sculpture, Bulbus still (somehow) manages to function."
+      ]
+    },
+    {
+      "name": "Ian",
+      "market_hash_name": "Ian",
+      "classid": "208647486",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGA7Iu6_irDNogk",
+      "descriptions": [
+        "Ian is best friends with Lee."
+      ]
+    },
+    {
+      "name": "Calvin",
+      "market_hash_name": "Calvin",
+      "classid": "207637092",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWU7Iu6_sSi-dqc",
+      "descriptions": [
+        "Only the smell of fear motivates Calvin to act. And when he does... it is nothing short of glorious."
+      ]
+    },
+    {
+      "name": "Thomas",
+      "market_hash_name": "Thomas",
+      "classid": "213635690",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGQ7Iu6_z_PxFlA",
+      "descriptions": [
+        "From barrister to politician to inmate."
+      ]
+    },
+    {
+      "name": "Nikoli Piecovchit",
+      "market_hash_name": "Nikoli Piecovchit",
+      "classid": "213635779",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGk7Iu6_nfJ0nr4",
+      "descriptions": [
+        "A relic of the cold war, Nicoli longs for a simpler time.n"
+      ]
+    },
+    {
+      "name": "Chutney",
+      "market_hash_name": "Chutney",
+      "classid": "213635769",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2I7Iu6_oejw-pM",
+      "descriptions": [
+        "From the family of condiments, this mixture of spices and vegetables will leave you both confused and possibly aroused."
+      ]
+    },
+    {
+      "name": "Rose",
+      "market_hash_name": "Rose",
+      "classid": "213635716",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2InfPC2AhFWHr2V",
+      "descriptions": [
+        "The sum of its petals. When coming together it assembles into a Valentine's Day treat."
+      ]
+    },
+    {
+      "name": "Sweet Tooth",
+      "market_hash_name": "Sweet Tooth",
+      "classid": "208647465",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGc7Iu6_WyidCPs",
+      "descriptions": [
+        "A face full of pain and no regrets."
+      ]
+    },
+    {
+      "name": "Socks",
+      "market_hash_name": "Socks",
+      "classid": "208647474",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGGg7Iu6_66ReY-A",
+      "descriptions": [
+        "A quiet life filled with warmth and love."
+      ]
+    },
+    {
+      "name": "Stanley Tinyhat",
+      "market_hash_name": "Stanley Tinyhat",
+      "classid": "213635699",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iH2Q7Iu6_t5dYKeE",
+      "descriptions": [
+        "Stanely's hat is the only object that connects him to his past life.n"
+      ]
+    },
+    {
+      "name": "Crazy Eyes",
+      "market_hash_name": "Crazy Eyes",
+      "classid": "213635698",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOwVCUw2r0E3iGWc7Iu6_x7d6Lek",
+      "descriptions": [
+        "Descended from a long line of trackers.  Crazy Eyes eats, breathes, and sees via... his mouth."
+      ]
+    },
+    {
+      "name": "Gerard",
+      "market_hash_name": "Gerard",
+      "classid": "213635752",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QkfPC2ArZIFTwQ",
+      "descriptions": [
+        "Gerard's opposable face is what separates him from lesser primates. He'd explain all of the advantages, but he doubts you could keep up."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Easter Al",
+      "market_hash_name": "Easter Al",
+      "classid": "213635803",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUha66oC9ihOnf41A",
+      "descriptions": [
+        "A monumental failure back at home, his performances since then have mostly been a bust."
+      ]
+    },
+    {
+      "name": "Porcini",
+      "market_hash_name": "Porcini",
+      "classid": "213635787",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkZK6oC9iVQq3E3Q",
+      "descriptions": [
+        "Delicously smelly goodness, yet dangerously sweet."
+      ]
+    },
+    {
+      "name": "Jasper",
+      "market_hash_name": "Jasper",
+      "classid": "213635789",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUka66oC9iGnsPuKg",
+      "descriptions": [
+        "#Who wants a hug?"
+      ]
+    },
+    {
+      "name": "Smelford Tibblefast",
+      "market_hash_name": "Smelford Tibblefast",
+      "classid": "213635681",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhZK6oC9jnWMDFUQ",
+      "descriptions": [
+        "Lost his tail in Act 1. Everyone tells him that it will grow back. Some day."
+      ]
+    },
+    {
+      "name": "Team Spirit",
+      "market_hash_name": "Team Spirit",
+      "classid": "208647494",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgYa6oC9hi_TNolQ",
+      "descriptions": [
+        "Watches you sleep."
+      ]
+    },
+    {
+      "name": "Mermon",
+      "market_hash_name": "Mermon",
+      "classid": "213635791",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjYq6oC9hTgCtxNw",
+      "descriptions": [
+        "Ice fishing can be dangerous.  I mean, what if the fish pulled you into the hole?"
+      ]
+    },
+    {
+      "name": "Little Feets",
+      "market_hash_name": "Little Feets",
+      "classid": "213635746",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2UmfPC2Ag9i1E7C",
+      "descriptions": [
+        "The discarded stilts and unzipped costume lay beside a trail of unnaturally small tracks. The legend of Bigfoot had ended, but the legend of Little Feets was just beginning..."
+      ]
+    },
+    {
+      "name": "The Witchdoctor",
+      "market_hash_name": "The Witchdoctor",
+      "classid": "213635784",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgYK6oC9h2eYEM1w",
+      "descriptions": [
+        "Do you believe? do you believe the mystical arts?  Do you believe in..."
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Winter is Coming",
+      "market_hash_name": "Winter is Coming",
+      "classid": "213635660",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgZK6oC9iWdIc6VQ",
+      "descriptions": [
+        "Devourer of man. Blood as cold as ice and spit as sharp as icicles."
+      ]
+    },
+    {
+      "name": "Kawalsky",
+      "market_hash_name": "Kawalsky",
+      "classid": "207637089",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnY66oC9izEUrvxA",
+      "descriptions": [
+        "Ship's engineer. Prefers arc welding to oxy-fuel"
+      ]
+    },
+    {
+      "name": "2-Ply",
+      "market_hash_name": "2-Ply",
+      "classid": "213635792",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUtfPC2AtwteAb-",
+      "descriptions": [
+        "Mummies make great friends because their plumage is naturally soft and absorbant: you can cry on their shoulder for days."
+      ]
+    },
+    {
+      "name": "Wheels",
+      "market_hash_name": "Wheels",
+      "classid": "213635722",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2MnfPC2AkvfeqB3",
+      "descriptions": [
+        "Earings, hats, headbands, headphones, earmuffs, bandanas. We're thinking too small here. Cars. Accessory of the future."
+      ]
+    },
+    {
+      "name": "Pearce",
+      "market_hash_name": "Pearce",
+      "classid": "213635809",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkYK6oC9h2MvDxrA",
+      "descriptions": [
+        "Haunted by a gluten allergy that was diagnosed until recent.  Unbeknownst for years while living on garlic bread."
+      ]
+    },
+    {
+      "name": "Verisimilitude",
+      "market_hash_name": "Verisimilitude",
+      "classid": "213635796",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhYK6oC9hcAJ_YQQ",
+      "descriptions": [
+        "There are over a dozen puppeteers hidden within Verisimilitude. It gets cramped sometimes."
+      ]
+    },
+    {
+      "name": "Walter",
+      "market_hash_name": "Walter",
+      "classid": "213635788",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgZq6oC9hDSyX4fg",
+      "descriptions": [
+        "A collector of fine confections."
+      ]
+    },
+    {
+      "name": "Gunther",
+      "market_hash_name": "Gunther",
+      "classid": "208122124",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjZq6oC9ijFZYR5Q",
+      "descriptions": [
+        "Lost at sea for years aboard a derelict freighter. After finding a viking cap inside of a shipping container, Gunther has since found a new purpose in life."
+      ]
+    },
+    {
+      "name": "Manbirth",
+      "market_hash_name": "Manbirth",
+      "classid": "213635751",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2QmfPC2AgBlhM-7",
+      "descriptions": [
+        "Look this happens all the time. It just doesn't get that much coverage in the media, but more common than you would think. Like blue ice."
+      ]
+    },
+    {
+      "name": "Spork",
+      "market_hash_name": "Spork",
+      "classid": "213635683",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhZa6oC9iwmBsG0w",
+      "descriptions": [
+        "Dual purposed duality."
+      ]
+    },
+    {
+      "name": "Cranberry",
+      "market_hash_name": "Cranberry",
+      "classid": "207637077",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnYK6oC9hEGnawKg",
+      "descriptions": [
+        "Younger brother of Franklin. Less successful than John-Paul."
+      ]
+    },
+    {
+      "name": "Alien",
+      "market_hash_name": "Alien",
+      "classid": "213635740",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2I7Iu6_3HNjteo",
+      "descriptions": [
+        "Where is my spaceship!?!?"
+      ]
+    },
+    {
+      "name": "Sniffy Sniffs",
+      "market_hash_name": "Sniffy Sniffs",
+      "classid": "207637112",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnZa6oC9gomghBzw",
+      "descriptions": [
+        "An answer for kitten farts. Of course, the smell of plastic and rubber is far worse."
+      ]
+    },
+    {
+      "name": "Cheeseborough",
+      "market_hash_name": "Cheeseborough",
+      "classid": "208647496",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnZq6oC9h9zk_-BQ",
+      "descriptions": [
+        "What can I say? The man knows how to clamp!"
+      ]
+    },
+    {
+      "name": "Yarn Ball",
+      "market_hash_name": "Yarn Ball",
+      "classid": "207637082",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGQKwJNYwmB3QD3RDeZBO-mWw",
+      "descriptions": [
+        "Yarn is by far much more rare than Gems.  It's the primary currency for bribing the Cat Guards for new weapons, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Boot",
+      "market_hash_name": "Boot",
+      "classid": "213635718",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGaOhVASAmB90_kT2IjfPC2AlQy0PjG",
+      "descriptions": [
+        "A wise old cobbler predicted the singularity would occur in technology. I'll give you a guess as to what field."
+      ]
+    },
+    {
+      "name": "Marco",
+      "market_hash_name": "Marco",
+      "classid": "207637084",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkY66oC9hkmGggAQ",
+      "descriptions": [
+        "The worst part about a face-ectomy is that people don't know where to look when they're talking to you, and it makes everyone uncomfortable. The mask helps."
+      ]
+    },
+    {
+      "name": "Crikey",
+      "market_hash_name": "Crikey",
+      "classid": "208647469",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkZq6oC9htVctbqQ",
+      "descriptions": [
+        "Crikey and Arnold were found on a life raft in the middle of the ocean.  Close to starvation these two found a home aboard the SS Friendship."
+      ]
+    },
+    {
+      "name": "Chester",
+      "market_hash_name": "Chester",
+      "classid": "213635793",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnYa6oC9h6DQnsWA",
+      "descriptions": [
+        "A shell of his former self.  Once a great explorer, now sits quietly in his living quarters drawing diagrams of litterboxes."
+      ]
+    },
+    {
+      "name": "Susie Q. Anthony",
+      "market_hash_name": "Susie Q. Anthony",
+      "classid": "208076912",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhZq6oC9jJF3cY5w",
+      "descriptions": [
+        "Solving mysteries may come naturally to some girls, but sometimes you also upstage the police and end up in prison run by cats."
+      ]
+    },
+    {
+      "name": "Champion",
+      "market_hash_name": "Champion",
+      "classid": "208474084",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkYa6oC9g1rEersA",
+      "descriptions": [
+        "Just think of the bacon make-outs..."
+      ]
+    },
+    {
+      "name": "Rawls",
+      "market_hash_name": "Rawls",
+      "classid": "213635668",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhYa6oC9jX7T0Ong",
+      "descriptions": [
+        "After a childhood food incedent involving rock candy, Rawls underwent a highly experimental jaw sugery that infused him with a metal mandible."
+      ]
+    },
+    {
+      "name": "Sleepover Simon",
+      "market_hash_name": "Sleepover Simon",
+      "classid": "213635664",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmZ66oC9i9U9aoug",
+      "descriptions": [
+        "Be sure to look under your bed."
+      ]
+    },
+    {
+      "name": "Plane Jane",
+      "market_hash_name": "Plane Jane",
+      "classid": "207637119",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmYa6oC9gkxRA-pQ",
+      "descriptions": [
+        "Turbines are for circle heads."
+      ]
+    },
+    {
+      "name": "Sygourney",
+      "market_hash_name": "Sygourney",
+      "classid": "213635794",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnZa6oC9j1sqbn6A",
+      "descriptions": [
+        "Known for amazing hair, this one has starred in multiple BattleBlock Theater promotional advertisements."
+      ]
+    },
+    {
+      "name": "Pepper",
+      "market_hash_name": "Pepper",
+      "classid": "208122123",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnaq6oC9gWGbKSYQ",
+      "descriptions": [
+        "Prisoner by day. Origamist by night. Professional hanglider in dreams."
+      ]
+    },
+    {
+      "name": "Pascal",
+      "market_hash_name": "Pascal",
+      "classid": "213635661",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUna66oC9hsl0RoUA",
+      "descriptions": [
+        "Be very, very careful. For Pascal's attenae do absolutely nothing at all but make you look foolish!"
+      ]
+    },
+    {
+      "name": "Fleur de sol",
+      "market_hash_name": "Fleur de sol",
+      "classid": "213635802",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmYq6oC9g2d0KBmA",
+      "descriptions": [
+        "A little of this, a little of that.  A dash of prison, a smidge of theater.  Voila!"
+      ]
+    },
+    {
+      "name": "Yuzu",
+      "market_hash_name": "Yuzu",
+      "classid": "213635797",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmYK6oC9gRCc0Btw",
+      "descriptions": [
+        "Sweet and sour and full of zest.  Yuzu has untamable sass that does not mesh well with his fellow captives."
+      ]
+    },
+    {
+      "name": "Conseco",
+      "market_hash_name": "Conseco",
+      "classid": "208647480",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmZq6oC9jcfSV4xA",
+      "descriptions": [
+        "Mouth full of flys. Full of them."
+      ]
+    },
+    {
+      "name": "grizzle",
+      "market_hash_name": "grizzle",
+      "classid": "208122119",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjYK6oC9jjlN7atw",
+      "descriptions": [
+        "One moment, I was at a slumber party.  The next... jail."
+      ]
+    },
+    {
+      "name": "Safety First",
+      "market_hash_name": "Safety First",
+      "classid": "213635790",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUsfPC2AoOmn2yX",
+      "descriptions": [
+        "This is actually a medically prescribed helmet.  True story."
+      ]
+    },
+    {
+      "name": "Easter Elle",
+      "market_hash_name": "Easter Elle",
+      "classid": "207637078",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgYq6oC9gZyTT9Jw",
+      "descriptions": [
+        "Always supportive of her big brother, even when he fails."
+      ]
+    },
+    {
+      "name": "Sir Sneak-a-Peek",
+      "market_hash_name": "Sir Sneak-a-Peek",
+      "classid": "210545186",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmZa6oC9i2b6VFYw",
+      "descriptions": [
+        "Of noble birth, Sir Sneak is the last in a long line of donut critics."
+      ]
+    },
+    {
+      "name": "Skids",
+      "market_hash_name": "Skids",
+      "classid": "208122121",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhY66oC9iTbHkVCw",
+      "descriptions": [
+        "Dashing, dapper, debonnair. Skid knows not what these words mean."
+      ]
+    },
+    {
+      "name": "Don'tLookAtMe",
+      "market_hash_name": "Don'tLookAtMe",
+      "classid": "207637079",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgZa6oC9jTeQ4Z8g",
+      "descriptions": [
+        "Eyes so beautiful one cannot gaze for more than a second before being hypnotized by their beauty."
+      ]
+    },
+    {
+      "name": "Aloe",
+      "market_hash_name": "Aloe",
+      "classid": "213635807",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmaq6oC9gq4MBP-w",
+      "descriptions": [
+        "Sentient aloe leaf broken and dried, but filled with life and fervor."
+      ]
+    },
+    {
+      "name": "The Babysitter",
+      "market_hash_name": "The Babysitter",
+      "classid": "207637088",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUma66oC9ghoD185Q",
+      "descriptions": [
+        "Charges way too much an hour to sleep on your couch."
+      ]
+    },
+    {
+      "name": "Nigel",
+      "market_hash_name": "Nigel",
+      "classid": "213635800",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUnfPC2Al7U--jA",
+      "descriptions": [
+        "Custom monacles are surprisingly cheap."
+      ]
+    },
+    {
+      "name": "WeeWee",
+      "market_hash_name": "WeeWee",
+      "classid": "213635798",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUmfPC2Ai352fWy",
+      "descriptions": [
+        "Some would say a scoundrel. Otheres, a rascal. WeeWee will have to learn what it takes to survive in BattleBlock Theater."
+      ]
+    },
+    {
+      "name": "Greystone",
+      "market_hash_name": "Greystone",
+      "classid": "213635662",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhYq6oC9h93RQXIQ",
+      "descriptions": [
+        "Traumatized by a car accident involving a truck filled with carrots.  Greystone has turned carrots into carrot... cake and owns a carrot cakery back home.  Some day after being freed he will return and take up his mantle as head patissiere."
+      ]
+    },
+    {
+      "name": "Franklin",
+      "market_hash_name": "Franklin",
+      "classid": "213635663",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUhfPC2AqE6MeVm",
+      "descriptions": [
+        "Grows imitation beards and sells them on the black market. Led his younger brother Cranberry astray."
+      ]
+    },
+    {
+      "name": "Serioustown",
+      "market_hash_name": "Serioustown",
+      "classid": "213635795",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUgfPC2AoVykE3s",
+      "descriptions": [
+        "This man is permanently less than indifferent."
+      ]
+    },
+    {
+      "name": "Ivan",
+      "market_hash_name": "Ivan",
+      "classid": "213635666",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUjfPC2ArOeUmkj",
+      "descriptions": [
+        "Fabled lost cosmonaut has in actuality been misadventuring with this group of castaways."
+      ]
+    },
+    {
+      "name": "Cristoff",
+      "market_hash_name": "Cristoff",
+      "classid": "207637076",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGKMxxKTwyIw2jmSTUkYq6oC9hm3fTTLg",
+      "descriptions": [
+        "This one time Cristoff went on a family vacation and was introduced to oysters for the first time.  Changed his life. When he grew up he went to a restaurant and to his surprise what he thought were oysters were actually soy beans."
+      ]
+    },
+    {
+      "name": "Skin Flap McZak",
+      "market_hash_name": "Skin Flap McZak",
+      "classid": "213635823",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgZq6oC9hkPCN_MQ",
+      "descriptions": [
+        "He started peeling at the tender age 162.  Now his flaps just flap about, but he does not see it anymore.  They are a part of him much like a limb or and eyeball or hair folicle."
+      ]
+    },
+    {
+      "name": "Kirby Lobewax",
+      "market_hash_name": "Kirby Lobewax",
+      "classid": "213635830",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhaq6oC9hXE4gA7Q",
+      "descriptions": [
+        "Kirby looks forward to a bright future of easy-access ear hair removal."
+      ]
+    },
+    {
+      "name": "Beats",
+      "market_hash_name": "Beats",
+      "classid": "206703666",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkYK6oC9jY9Du1BQ",
+      "descriptions": [
+        "Playing good songs in good orders got this one a job aboard the S.S. Friendship. But I'll let you in on a little secret... they're not headphones.  They're actualy ear muffs. Shhhhhhhh."
+      ]
+    },
+    {
+      "name": "Sly",
+      "market_hash_name": "Sly",
+      "classid": "213635643",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUsfPC2Ahi1m5CC",
+      "descriptions": [
+        "Sometimes being stealthy just means being mindful of your surroundings. And gaps of course."
+      ]
+    },
+    {
+      "name": "Geordie Manflakes",
+      "market_hash_name": "Geordie Manflakes",
+      "classid": "213635659",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhYq6oC9i88fn3cw",
+      "descriptions": [
+        "See those things on his head? Some kid stuck those on back in 3rd grade and he still hasn't noticed."
+      ]
+    },
+    {
+      "name": "Rosencrantz",
+      "market_hash_name": "Rosencrantz",
+      "classid": "208647489",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjZq6oC9j8XmUAdQ",
+      "descriptions": [
+        "Shakespeare is by far more difficult to communicate via antennae. Truly the next level in theater can neither be seen nor heard.  Unless! it's say a battle type of theater..."
+      ]
+    },
+    {
+      "name": "Ramekin Eyetalker",
+      "market_hash_name": "Ramekin Eyetalker",
+      "classid": "213635818",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnY66oC9idDfOunA",
+      "descriptions": [
+        "It's rude to stare, even if you're from a galaxy far, far away."
+      ]
+    },
+    {
+      "name": "Chef",
+      "market_hash_name": "Chef",
+      "classid": "213635828",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjYq6oC9jeNNUahg",
+      "descriptions": [
+        "This goatee makes my food taste good."
+      ]
+    },
+    {
+      "name": "Surpreyes",
+      "market_hash_name": "Surpreyes",
+      "classid": "208076910",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgZK6oC9iRxga5kA",
+      "descriptions": [
+        "There is such a thing as too much depth-perception."
+      ]
+    },
+    {
+      "name": "Beetie",
+      "market_hash_name": "Beetie",
+      "classid": "213635829",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkYa6oC9gJsTcAzQ",
+      "descriptions": [
+        "An unparalleled affinity for the red nectar of the beet.  You see it's a noble vegetable, but virutally untradable with Cat Guards."
+      ]
+    },
+    {
+      "name": "Sven",
+      "market_hash_name": "Sven",
+      "classid": "213635824",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjYa6oC9jrVI8CwQ",
+      "descriptions": [
+        "Have you ever tasted sadness? I have. For he was my friend."
+      ]
+    },
+    {
+      "name": "Purrtricia",
+      "market_hash_name": "Purrtricia",
+      "classid": "207637052",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnZK6oC9h5gejpnw",
+      "descriptions": [
+        "Several incidents with the guards and some yarn resulted in some electro-zapper block therapy.  This once feral creature now sits catatonic in a cell with the look of emptiness in her eyes.  Quite tragic really."
+      ]
+    },
+    {
+      "name": "Cyber Manny",
+      "market_hash_name": "Cyber Manny",
+      "classid": "208474086",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhYK6oC9i-7bWIpg",
+      "descriptions": [
+        "Read the fine print when shopping on Cyber Monday. Sometimes its a discount laptop, and sometimes its a discount laptop with an agreement to donate your body to medical experiments. Long story short, Cyber Manny."
+      ]
+    },
+    {
+      "name": "Nikola",
+      "market_hash_name": "Nikola",
+      "classid": "213635827",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmYa6oC9j8UU-k2Q",
+      "descriptions": [
+        "These glasses are needed for his experiments.  Oh, the experiments are in modern dance."
+      ]
+    },
+    {
+      "name": "Reverse Merman",
+      "market_hash_name": "Reverse Merman",
+      "classid": "206703665",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhZq6oC9h1lYfq8Q",
+      "descriptions": [
+        "Being a reverse merman has a TON of benefits, survival-wise: gills for below water, lungs for above. Webbed toes that walk as well as they swim. Of course, the species is doomed because no girl will ever kiss one."
+      ]
+    },
+    {
+      "name": "Willie the Kid",
+      "market_hash_name": "Willie the Kid",
+      "classid": "213635653",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjY66oC9hy8W3Ovw",
+      "descriptions": [
+        "Turns out, being a train robber is a lot less complicated than being a boat robber."
+      ]
+    },
+    {
+      "name": "Rigel",
+      "market_hash_name": "Rigel",
+      "classid": "206703663",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnfPC2AphuKlio",
+      "descriptions": [
+        "Brother to Nigel. This fraternal twin hangs on the side of the triangles though suffers the same occular limitations as his brother."
+      ]
+    },
+    {
+      "name": "Banana Man",
+      "market_hash_name": "Banana Man",
+      "classid": "213635821",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhfPC2Apz0RRSF",
+      "descriptions": [
+        "Ooh ooh ah ah?"
+      ]
+    },
+    {
+      "name": "Pretty Please",
+      "market_hash_name": "Pretty Please",
+      "classid": "207637110",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUha66oC9heAbnw2w",
+      "descriptions": [
+        "#He'd always meant to get it checked out, but the staff at Yogurt Palace had been surpringly good with sudden head trauma."
+      ]
+    },
+    {
+      "name": "Isosceles II",
+      "market_hash_name": "Isosceles II",
+      "classid": "208649639",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjfPC2Aub8ycHF",
+      "descriptions": [
+        "Isosceles II's tomb was his first, and last, self-portrait."
+      ]
+    },
+    {
+      "name": "Princess Tee hee",
+      "market_hash_name": "Princess Tee hee",
+      "classid": "213635825",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmZq6oC9jYsczUvA",
+      "descriptions": [
+        "Her Highness, the lady of giggle-snorts, heiress to Fannyfield Home."
+      ]
+    },
+    {
+      "name": "Nostridomus",
+      "market_hash_name": "Nostridomus",
+      "classid": "213635647",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhZa6oC9g0cnOBxA",
+      "descriptions": [
+        "Nostridomus can smell the future, and the future smells like prison and litterboxes."
+      ]
+    },
+    {
+      "name": "Persius",
+      "market_hash_name": "Persius",
+      "classid": "210585862",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhZ66oC9iuc_FM3w",
+      "descriptions": [
+        "Abandoned by his father, Poseidon, after he accidentally spat in his mouth."
+      ]
+    },
+    {
+      "name": "Farmer Phil",
+      "market_hash_name": "Farmer Phil",
+      "classid": "207637055",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgYq6oC9hQqKC5-A",
+      "descriptions": [
+        "Gonna eat your grains and brain your knowledge."
+      ]
+    },
+    {
+      "name": "Up All Night",
+      "market_hash_name": "Up All Night",
+      "classid": "208076958",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgYa6oC9isgTRffA",
+      "descriptions": [
+        "She once found herself in a shopping mall made up entirely of coffee shops. After surviving on caramel, espresso and biscotti for 3 weeks, she finally escaped into the blinding sun. She has not slept since."
+      ]
+    },
+    {
+      "name": "Secret Mission Guy 2",
+      "market_hash_name": "Secret Mission Guy 2",
+      "classid": "213635832",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkYq6oC9hqSkKyoA",
+      "descriptions": [
+        "Finding gems is way harder when everything looks green, but he wanted a challenge."
+      ]
+    },
+    {
+      "name": "Sir Silvergrill",
+      "market_hash_name": "Sir Silvergrill",
+      "classid": "213635656",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgfPC2AlPOdsJJ",
+      "descriptions": [
+        "After slaying Dribbles the Sea Dragon, Sir Silvergrill later opened an online dragon skin belt store."
+      ]
+    },
+    {
+      "name": "Bird Boy",
+      "market_hash_name": "Bird Boy",
+      "classid": "210585858",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkZa6oC9h2KbYwWw",
+      "descriptions": [
+        "Being cross-bred with a bird can have its advantages when you're on a prison island. Less so if the bird you were bred with was flightless."
+      ]
+    },
+    {
+      "name": "Roscoe",
+      "market_hash_name": "Roscoe",
+      "classid": "207637108",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgaq6oC9jkopM6dw",
+      "descriptions": [
+        "Surprisingly, once you grow your hair out long enough, you go from being hairy to furry. Fluffy even. Roscoe, you have arrived!"
+      ]
+    },
+    {
+      "name": "Earl",
+      "market_hash_name": "Earl",
+      "classid": "208647488",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhYa6oC9gtw_rKEQ",
+      "descriptions": [
+        "Order in the court!  I have a wig!"
+      ]
+    },
+    {
+      "name": "Benedict",
+      "market_hash_name": "Benedict",
+      "classid": "213635652",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgY66oC9gHlB28ZQ",
+      "descriptions": [
+        "Master detective. Brain like an encyclopedia. Utterly ruined by the invention of the internet."
+      ]
+    },
+    {
+      "name": "Snow",
+      "market_hash_name": "Snow",
+      "classid": "210585856",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUifPC2AiKE8BAi",
+      "descriptions": [
+        "Winter is coming. We're on a tropical island though, so it should be pretty nice."
+      ]
+    },
+    {
+      "name": "Walter",
+      "market_hash_name": "Walter",
+      "classid": "210585860",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUtfPC2Ah7oI4Qn",
+      "descriptions": [
+        "Walter suffers from an overwhelming sense of self consciousness. Luckily being holed up a ship for months on end followed by prison, tends to tear down such social barriers."
+      ]
+    },
+    {
+      "name": "Noir",
+      "market_hash_name": "Noir",
+      "classid": "207637109",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgYK6oC9geZlutiA",
+      "descriptions": [
+        "Back in eleventy-eleventeen they didn't call them juiceboxes.  Instead they were called, er,  juice glasses."
+      ]
+    },
+    {
+      "name": "Pineapple Pete",
+      "market_hash_name": "Pineapple Pete",
+      "classid": "213635831",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgZ66oC9ipjBqMCA",
+      "descriptions": [
+        "The failed mascot for Antarctic Pineaples."
+      ]
+    },
+    {
+      "name": "Humphrey Rodriguez",
+      "market_hash_name": "Humphrey Rodriguez",
+      "classid": "213635813",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhY66oC9gQKpvkjg",
+      "descriptions": [
+        "Notorious pinch-hitter. Seriously, watch out: first he pinches you, and then he hits you right on the nose."
+      ]
+    },
+    {
+      "name": "Vinegar Cheeks",
+      "market_hash_name": "Vinegar Cheeks",
+      "classid": "213635645",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUjYK6oC9gvt4niFw",
+      "descriptions": [
+        "Some people pickle cucumbers. Some onions and carrots. This guy pickled his head. This is what happens when you pickle your head."
+      ]
+    },
+    {
+      "name": "Angry Andy",
+      "market_hash_name": "Angry Andy",
+      "classid": "207637054",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUma66oC9hNO-jA-Q",
+      "descriptions": [
+        "Life lesson of the day: don't let yourself be defined by the shape of your eyebrows. Unless you're like Andy and that's the best thing going for you."
+      ]
+    },
+    {
+      "name": "Shock Victim",
+      "market_hash_name": "Shock Victim",
+      "classid": "213635644",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkY66oC9jyq7SIew",
+      "descriptions": [
+        "This one has a long history with objects with electrical properties. He may no his way around a zapper block, but the encounter may prove too traumatic."
+      ]
+    },
+    {
+      "name": "Amphibalope",
+      "market_hash_name": "Amphibalope",
+      "classid": "213635658",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmZ66oC9gpn2T7Lg",
+      "descriptions": [
+        "Amphibalopes were once bred for size and storage capacity, and they were the leading walk-in animal of their day. The species took a big hit in popularity once someone invented a closet that smelled less terrible and was less likely to die."
+      ]
+    },
+    {
+      "name": "Grotto",
+      "market_hash_name": "Grotto",
+      "classid": "213635819",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkZq6oC9iirhMPHw",
+      "descriptions": [
+        "This one time my friend Tots and I were at an 80s party.  We both wore hats because we were hat buddies. He was a bit confused about multi-themed rooms and worried about his glasses or something.  I was obviously busy having a sporting time in my new hat.  You see it'a hat.  Did I mention I love hats?"
+      ]
+    },
+    {
+      "name": "Girp",
+      "market_hash_name": "Girp",
+      "classid": "213635822",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUkaq6oC9hux6tPhw",
+      "descriptions": [
+        "After fulfilling the family mission to smite Poiseidon, he was left with a sense of emptiness after shipwrecking. Directionless he awaits a cause.  A cause that will reignite the fire in his heart that once burned with family fueld gold old fasioned vegeance."
+      ]
+    },
+    {
+      "name": "Trinoceros",
+      "market_hash_name": "Trinoceros",
+      "classid": "207637056",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUgZa6oC9gmYIiqNg",
+      "descriptions": [
+        "When you're flashing this much ivory, it's not a bad idea to hire a lookout."
+      ]
+    },
+    {
+      "name": "Spectacular Tufts",
+      "market_hash_name": "Spectacular Tufts",
+      "classid": "213635826",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmZK6oC9ge2zZnLw",
+      "descriptions": [
+        "Little known fact, duckshark meat is rich in vitamins and oils that are great for your hair.  Leaving you with a rich, full, luster and tufts not unlike the duckshark."
+      ]
+    },
+    {
+      "name": "Pierre",
+      "market_hash_name": "Pierre",
+      "classid": "213635657",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUka66oC9iWwOMMoA",
+      "descriptions": [
+        "Won the award for Best Actor. Thanked no one."
+      ]
+    },
+    {
+      "name": "Drive-thru",
+      "market_hash_name": "Drive-thru",
+      "classid": "210585859",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnYq6oC9gM-e5sBw",
+      "descriptions": [
+        "A french fry man stranded in a popcorn world. Luckily for him, the stench of fried potatoes will never leave him."
+      ]
+    },
+    {
+      "name": "Gems",
+      "market_hash_name": "Gems",
+      "classid": "204827733",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGOLx0NUQaKy2wyhAc",
+      "descriptions": [
+        "Gems are collected throughout BattleBlock Theater.  They are the primary currency for freeing new Prisoners when in the game, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Centipete",
+      "market_hash_name": "Centipete",
+      "classid": "210585857",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnYK6oC9ithcWnFQ",
+      "descriptions": [
+        "Puking on your food before eating it is clearly superior to all of the hard work that goes into chewing. Try it on date night: they'll appreciate the way you work smarter, not harder."
+      ]
+    },
+    {
+      "name": "Cornelius Smallbladder",
+      "market_hash_name": "Cornelius Smallbladder",
+      "classid": "213635817",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnaq6oC9hEU-JBFw",
+      "descriptions": [
+        "Discovered the &amp;quot;Wimplification Theorem&amp;quot;, resulting in new products like the Suds Tuff line of soft-sponge dumb bells."
+      ]
+    },
+    {
+      "name": "Rice Pilaf",
+      "market_hash_name": "Rice Pilaf",
+      "classid": "207637080",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnZq6oC9hfUNTT2A",
+      "descriptions": [
+        "During a molecular gastronomy experiement, this side dish dollop found his way into a rice ball case and blammo! Rice pilaf ball!  A gastronomical sensation amongst peers."
+      ]
+    },
+    {
+      "name": "Leo",
+      "market_hash_name": "Leo",
+      "classid": "213635649",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUnZ66oC9j_Jo4keQ",
+      "descriptions": [
+        "Shouting about where you are will never get you where you want to go."
+      ]
+    },
+    {
+      "name": "Timber Jim",
+      "market_hash_name": "Timber Jim",
+      "classid": "207637086",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUna66oC9i3fD8GKQ",
+      "descriptions": [
+        "Won a free cruise after donating the most at his neighborhood, &amp;quot;Homes for Squirrels&amp;quot; lumber fund drive."
+      ]
+    },
+    {
+      "name": "Baby Clown Hair",
+      "market_hash_name": "Baby Clown Hair",
+      "classid": "213635648",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmY66oC9hX7g_yyQ",
+      "descriptions": [
+        "Like baby teeth, baby clown hair is eventually replaced by adult onset clown hair."
+      ]
+    },
+    {
+      "name": "Wax On",
+      "market_hash_name": "Wax On",
+      "classid": "208647468",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmYK6oC9jh2-UdsQ",
+      "descriptions": [
+        "This whole mess would have been solved by a montage weeks ago, but he lost his cassette player in the shipwreck."
+      ]
+    },
+    {
+      "name": "Gems",
+      "market_hash_name": "Gems",
+      "classid": "204827733",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGOLx0NUQaKy2wyhAc",
+      "descriptions": [
+        "Gems are collected throughout BattleBlock Theater.  They are the primary currency for freeing new Prisoners when in the game, but of course can be traded for anything."
+      ]
+    },
+    {
+      "name": "Dragonhead",
+      "market_hash_name": "Dragonhead",
+      "classid": "207637053",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmZa6oC9jxi2LyWw",
+      "descriptions": [
+        "He may not have wings or fire breath, but at least his face looks like a hideous reptile monster."
+      ]
+    },
+    {
+      "name": "mogu",
+      "market_hash_name": "mogu",
+      "classid": "207637111",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUmaq6oC9hIda0uOw",
+      "descriptions": [
+        "Sociopathic megalomaniac. It all started with a cracker, and now he wants more..."
+      ]
+    },
+    {
+      "name": "Eleanor Gogglenobs",
+      "market_hash_name": "Eleanor Gogglenobs",
+      "classid": "213635651",
+      "icon_url": "jsobcfQDmhizvpbTAOdHeug7O4L-U2fOLwxdx4kOevf-WAtkX9IJEJYyrFGdOBlCTw-B1GjmSTUhZK6oC9jGemufjA",
+      "descriptions": [
+        "Eleanor had the misfortune of losing an engine, ejecting, and parachuting onto the S.S. Friendship.  Lost at sea or on an island prison, she replays that day in her head over and over asking herself, &amp;quot;Why was I doing barrel rolls in my prop plane?&amp;quot;"
+      ]
+    }
+  ],
+  "more_items": false,
+  "last_assetid": null
+}
