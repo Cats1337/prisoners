@@ -636,6 +636,16 @@ function renderHeroHead() {
 
     const head = candidates[Math.floor(Math.random() * candidates.length)];
     const plainUrl = getSteamIconUrl(head.icon_url);
+    // Make sure it's not "EMPTY_PATH"
+    if (plainUrl === "EMPTY_PATH") {
+        // choose another random head if the selected one is invalid
+        const validHeads = candidates.filter((h) => getSteamIconUrl(h.icon_url) !== "EMPTY_PATH");
+        if (validHeads.length > 0) {
+            const newHead = validHeads[Math.floor(Math.random() * validHeads.length)];
+            renderHeroHead(newHead);
+        }
+        return;
+    }
 
     const img = document.createElement("img");
 
