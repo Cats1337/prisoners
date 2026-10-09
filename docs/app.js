@@ -206,8 +206,8 @@ function createNavButton(category) {
         : HEADS.find((head) => normalize(head.name) === normalize(category.baseHead));
 
     // If it's missing or uses EMPTY_PATH, choose a random valid head
-    if (!baseHead || baseHead.icon_url === EMPTY_PATH) {
-        const validHeads = HEADS.filter((head) => head.icon_url !== EMPTY_PATH);
+    if (!baseHead || baseHead.icon_url === "EMPTY_PATH") {
+        const validHeads = HEADS.filter((head) => head.icon_url !== "EMPTY_PATH");
         baseHead = validHeads[Math.floor(Math.random() * validHeads.length)];
     }
 
